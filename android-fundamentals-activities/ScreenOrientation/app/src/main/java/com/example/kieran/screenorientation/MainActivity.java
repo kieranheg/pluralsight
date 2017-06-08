@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -47,6 +48,8 @@ public class MainActivity extends AppCompatActivity {
 
     txvMessage.setText(savedInstanceState.getString(MSG));
     btnSubmit.setText(savedInstanceState.getString(KEY));
+
+    Toast.makeText(getApplicationContext(), "Restoring", Toast.LENGTH_SHORT).show();
   }
 
   @Override
@@ -80,6 +83,8 @@ public class MainActivity extends AppCompatActivity {
 
     outState.putString(MSG, txvMessage.getText().toString());
     outState.putString(KEY, btnSubmit.getText().toString());
+
+    Toast.makeText(getApplicationContext(), "Saving", Toast.LENGTH_SHORT).show();
   }
 
   @Override
