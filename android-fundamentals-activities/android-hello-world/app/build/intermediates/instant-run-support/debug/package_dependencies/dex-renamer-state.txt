@@ -1,0 +1,4 @@
+#Thu May 11 10:14:34 BST 2017
+base.0=/Users/kieran/ws/android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_418e07c5892fe4cf0f2ba46a5fcbb27a565ac627
+renamed.0=classes.dex
+file.0=/Users/kieran/ws/android/android-hello-world/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_418e07c5892fe4cf0f2ba46a5fcbb27a565ac627/classes.dex

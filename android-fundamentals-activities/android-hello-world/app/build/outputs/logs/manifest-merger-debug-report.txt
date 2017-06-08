@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:1:1-16:26
+	package
+		ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:4:3-16:15
+	android:label
+		ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:6:7-39
+	android:icon
+		ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:5:7-41
+	android:theme
+		ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.sqisland.android.hello.MainActivity
+ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:8:3-15:14
+	android:label
+		ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:10:7-39
+	android:name
+		ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:9:7-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:11:5-14:21
+action#android.intent.action.MAIN
+ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:12:7-59
+	android:name
+		ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:12:15-56
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:13:7-67
+	android:name
+		ADDED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml:13:17-64
+uses-sdk
+INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kieran/ws/android/android-hello-world/app/src/main/AndroidManifest.xml
